@@ -1,0 +1,7 @@
+data/*
+log/*
+results/*
+saved_models/*
+**/wandb
+**/__pycache__
+.idea

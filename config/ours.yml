@@ -1,0 +1,14 @@
+memetracker:
+  lam: 0.001
+  dropout: 0.2
+  walk_length: 3
+
+douban:
+  lam: 0.01
+  dropout: 0.1
+  walk_length: 5
+
+weibo:
+  lam: 0.01
+  dropout: 0.1
+  walk_length: 5
