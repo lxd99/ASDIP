@@ -1,4 +1,4 @@
-# Adaptive Sampling-based Dynamic Graph Learning for Information Diffusion Prediction
+# [TOIS] Adaptive Sampling-based Dynamic Graph Learning for Information Diffusion Prediction
 
 This is the implementation of ASDIP: [Adaptive Sampling-based Dynamic Graph Learning for Information Diffusion Prediction].
 
